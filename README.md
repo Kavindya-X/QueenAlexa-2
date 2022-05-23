@@ -47,7 +47,7 @@
 - Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
 
 ## 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝘿𝙚𝙥𝙡𝙤𝙮💫
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKesha/QueenAlexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kavindya-X/QueenAlexa-2)
 
   </a>
 
